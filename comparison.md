@@ -1,5 +1,5 @@
 # Comparing Two Approaches to Calling Multiple API Services: A Mathematical Perspective
-\[ P_{\text{batch}} = P_A \times P_B \times P_C \]
+
 When integrating with multiple API services, developers often encounter the challenge of handling failures. Two common strategies to ensure reliability involve retry mechanisms, but they approach the problem differently. This article compares these two strategies:
 
 1. **Strategy 1: Bulk Retry**
